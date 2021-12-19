@@ -9,7 +9,7 @@
 <div align="center">
 <img src="life.jpg" alt="Pepe" width="170" />
 
-# Bosco Bot
+# SPlRlT SER YT
 
 > Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
